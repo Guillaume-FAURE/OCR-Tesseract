@@ -1,0 +1,22 @@
+{
+  "name": "ocr-cameron",
+  "version": "1.0.0",
+  "description": "Ocr program built for cameron schlumberger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ocr",
+    "pdf"
+  ],
+  "author": "Guillaume-FAURE",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^9.0.0",
+    "node-tesseract-ocr": "^2.2.1",
+    "pdf-poppler": "^0.2.1",
+    "pdf2pic": "^2.1.4"
+  },
+  "type": "module"
+}
