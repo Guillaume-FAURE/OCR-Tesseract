@@ -1,4 +1,4 @@
 node_modules/
-pdf/
-images/
-text/
+pdf/*
+images/*
+text/*
